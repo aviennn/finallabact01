@@ -63,4 +63,4 @@ jobs:
           app-name: 'msdocs-laravel-batul-firstlabact'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0EB58E833264981B7A6BDE2E7B39EA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28AFE514368E4824B3C71F134C793C30 }}
